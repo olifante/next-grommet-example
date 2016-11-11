@@ -2,5 +2,14 @@
   "name": "next-grommet",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "grommet": "^1.0.1",
+    "next": "^1.1.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
 }
