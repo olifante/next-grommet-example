@@ -16,7 +16,7 @@ export default () => (
     </Head>
 
     <App centered={false}>
-      <Header direction="row" justify="between" large={true}
+      <Header direction="row" justify="between"
         pad={{ horizontal: 'medium' }}>
         <Title>Grommet standalone</Title>
       </Header>
