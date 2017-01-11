@@ -11,5 +11,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
+  },
+  "now": {
+    "alias": "next-grommet-example.now.sh"
   }
 }
